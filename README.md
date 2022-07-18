@@ -15,3 +15,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+If you want to check the app without launching anything, go to the following link :
+[https://poetic-daifuku-891b35.netlify.app/](https://poetic-daifuku-891b35.netlify.app/)
